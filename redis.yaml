@@ -10,6 +10,7 @@ spec:
         app: redis
         role: master
         tier: backend
+        month: june`
     spec:
       containers:
       - name: master
